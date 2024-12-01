@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\user\Desktop\20243522\ex7.h(38,4): warning C4047: '=': 'person *'의 간접 참조 수준이 'person (*)[5]'과(와) 다릅니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\20243522\ex7.h(46,15): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\20243522\ex7.h(46,15): warning C4024: 'strcmp': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\20243522\ex7.h(46,25): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\20243522\ex7.h(46,25): warning C4024: 'strcmp': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Desktop\20243522\ex6.h(35,1): warning C4716: 'ex6': 값을 반환해야 합니다.
+  20243522.vcxproj -> C:\Users\user\Desktop\20243522\x64\Debug\20243522.exe
